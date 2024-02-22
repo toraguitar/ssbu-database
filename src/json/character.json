@@ -1,0 +1,16 @@
+{
+  "characterData": [
+    {
+      "name": "Mario",
+      "number": "01",
+      "originalTitle": "Super Mario Bros.",
+      "joinSeries": "64"
+    },
+    {
+      "name": "Donkey Kong",
+      "number": "02",
+      "originalTitle": "Donkey Kong",
+      "joinSeries": "64"
+    }
+  ]
+}
